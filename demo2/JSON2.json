@@ -1,0 +1,23 @@
+{
+  "age" : 20,
+  "height" : 1.85,
+  "name" : "liming",
+  "photos" : [
+    {
+      "icon" : "hello.png",
+      "time" : "2015-07-01"
+    },
+    {
+      "icon" : "nice.png",
+      "time" : "2015-07-02"
+    },
+    {
+      "icon" : "good.png",
+      "time" : "2015-07-02"
+    }
+  ],
+  "school" : {
+    "address" : "智汇park",
+    "name" : "ZYZ"
+  }
+}
